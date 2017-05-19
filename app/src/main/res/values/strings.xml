@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraPermissionDemo</string>
+    <string name="android_camera_permissions_denied">You need to grant camera and mic permission to perform Video Consultation</string>
+    <string name="android_camera_permissions_denied_chat">You need to grant camera permission to Capture picture</string>
+    <string name="action_settings">Settings</string>
+
+</resources>

@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
+//https://gist.github.com/Mariovc/f06e70ebe8ca52fbbbe2
         setContentView(R.layout.activity_main);
 
         setIdsToViews();
